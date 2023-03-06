@@ -52,8 +52,8 @@ career in web development.
 
 ### Useful resources
 
-- [Example resource 1](https://fonts.google.com/specimen/Outfit) - This helped me style my text to the project specifications. I will be using this resource again in the future
-- [Example resource 2](https://www.w3schools.com/css/css3_borders.asp) - This resource explained how to use the border-radius property to round corners of my div and image.
+- [Resource 1](https://fonts.google.com/specimen/Outfit) - This helped me style my text to the project specifications. I will be using this resource again in the future
+- [Resource 2](https://www.w3schools.com/css/css3_borders.asp) - This resource explained how to use the border-radius property to round corners of my div and image.
 
 ## Author
 
