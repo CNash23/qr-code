@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/CNash23/2nd-pro/blob/main/index.html)
-- Live Site URL: [Live Site URL](http://127.0.0.1:5500/index.html)
+- [Solution URL](https://github.com/CNash23/2nd-pro/blob/main/index.html)
+- [Live Site URL](http://127.0.0.1:5500/index.html)
 
 ### Built with
 
