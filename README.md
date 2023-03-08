@@ -60,6 +60,6 @@ career in web development.
 - Website - Clea Carty(https://www.linkedin.com/in/clea-carty-50930a26/)
 - Frontend Mentor - [@CNash23](https://www.frontendmentor.io/profile/CNash23)
 
-### Credits
+### Acknowledgements
 
 Hassiai & visualdennis for assisting with improvements.
