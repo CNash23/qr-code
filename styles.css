@@ -28,13 +28,13 @@ p{
 
 
 
-.footer {
+.attribution {
     font-size: .6875rem; 
     text-align: center;
     margin-top: 6.25rem;
     }
 
-.footer a { color: hsl(228, 45%, 44%);
+.attribution a { color: hsl(228, 45%, 44%);
  }
 
 .square{
