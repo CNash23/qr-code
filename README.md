@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](images/my-finished-image.png)
+![](images/improvement.png)
 
 ### Links
 
@@ -27,8 +27,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Built with
 
-- Basic HTML
-- Basic CSS
+- HTML Grid
+- CSS
 
 ### What I learned
 
