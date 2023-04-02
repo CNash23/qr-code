@@ -57,7 +57,7 @@ career in web development.
 
 ## Author
 
-- Website - Clea Carty(https://www.linkedin.com/in/clea-carty-50930a26/)
+- Website - [Clea Carty](https://www.linkedin.com/in/clea-carty-50930a26/)
 - Frontend Mentor - [@CNash23](https://www.frontendmentor.io/profile/CNash23)
 
 ### Acknowledgements
